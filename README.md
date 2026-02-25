@@ -5,14 +5,14 @@
 Oi, sou Rayssa. Estudante do curso Técnico em TI na ETEC, com foco em desenvolvimento de software em Java e experiência em desenvolvimento web com React
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEULINKEDIN">
+    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rayssa-silva-a5202a31b/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/SEUINSTAGRAM">
+    <a href="https://www.instagram.com/https://www.instagram.com/vitoriiarayssa/">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
