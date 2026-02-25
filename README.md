@@ -5,22 +5,21 @@
 Oi, sou Rayssa. Estudante do curso Técnico em TI na ETEC, com foco em desenvolvimento de software em Java e experiência em desenvolvimento web com React
 
 <p align="left">
-    <a href="https://github.com/SEUUSUARIO?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/SEULINKEDIN">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEUUSUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEUUSUARIO?tab=followers">
+    <a href="https://www.instagram.com/SEUINSTAGRAM">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEUUSUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
-
 ---
 
 ### 🚀 Linguagens e Tecnologias
