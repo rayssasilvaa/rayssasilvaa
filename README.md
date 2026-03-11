@@ -24,6 +24,8 @@ Oi, sou Rayssa. Estudante do curso Técnico em TI na ETEC, com foco em desenvolv
 
 ### 🚀 Linguagens e Tecnologias
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayssasilvaa&layout=compact)
+
 <img 
     align="left" 
     alt="Java"
